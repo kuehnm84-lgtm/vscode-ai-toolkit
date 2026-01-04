@@ -1,2 +1,6 @@
 {
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.limit.value": 200,
+    "github.copilot.chat.languageContext.typescript.includeDocumentation": true,
+    "github.copilot.chat.languageContext.typescript.enabled": true
 }
